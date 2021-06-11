@@ -147,7 +147,7 @@
                     <div class="login__control">
                         <!-- <button type='submit' class="btn btn-md btn--warning btn--wider" onclick=" location.ref="http://127.0.0.1:5502/index.html"; alt="Redirection">sign in</button> -->
                         <button type='submit' class="btn btn-md btn--warning btn--wider">
-                            <a href='index.html' style = "color:rgb(0, 0, 0)">s'identifier</a>
+                            s'identifier
                         </button>
                         <a href="#" class="login__tracker form__tracker">Mot de passe oublié ?</a>
                     </div>
